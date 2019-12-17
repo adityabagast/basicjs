@@ -1,0 +1,1 @@
+console.log("ini file javacrip yang di eksekusi melalui nod js")
