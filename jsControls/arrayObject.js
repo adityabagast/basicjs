@@ -5,9 +5,9 @@ const dataArray = [1, 2, 'tiga']
 console.log(dataArray);
 console.log(dataArray[0]);
 
-const dataObject = {mobil: 'merah', motor: 'kuning'}
+const dataObject = {pesawat: 'merah', kereta: 'kuning'}
 console.log(dataObject);
-console.log(dataObject.motor);
+console.log(dataObject.kereta);
 
 console.log(dataArray.slice(0, 1));
 
